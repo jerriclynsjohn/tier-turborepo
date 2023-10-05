@@ -21,5 +21,6 @@ module.exports = {
     camelcase: "off",
     "@typescript-eslint/require-await": "off",
     "@typescript-eslint/no-confusing-void-expression": "off",
+    "import/no-extraneous-dependencies": "off",
   },
 };
