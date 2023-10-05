@@ -25,5 +25,6 @@ module.exports = {
     "@typescript-eslint/no-unnecessary-condition": "off",
     "@typescript-eslint/non-nullable-type-assertion-style": "off",
     "turbo/no-undeclared-env-vars": "off",
+    "@typescript-eslint/no-unnecessary-boolean-literal-compare": "off",
   },
 };
