@@ -22,5 +22,8 @@ module.exports = {
     "@typescript-eslint/require-await": "off",
     "@typescript-eslint/no-confusing-void-expression": "off",
     "import/no-extraneous-dependencies": "off",
+    "@typescript-eslint/no-unnecessary-condition": "off",
+    "@typescript-eslint/non-nullable-type-assertion-style": "off",
+    "turbo/no-undeclared-env-vars": "off",
   },
 };
