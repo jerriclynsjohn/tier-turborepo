@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.17",
+    "@heroicons/react": "^2.0.18",
+    "@tailwindcss/forms": "^0.5.6",
+    "clsx": "^2.0.0",
+    "cva": "npm:class-variance-authority@^0.7.0",
+    "lucide-react": "^0.284.0",
     "next": "^13.4.19",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "tailwind-merge": "^1.14.0",
+    "tailwindcss-animate": "^1.0.7",
+    "tier": "^5.10.0",
     "ui": "*"
   },
   "devDependencies": {
@@ -20,6 +29,7 @@
     "@types/react": "^18.0.22",
     "@types/react-dom": "^18.0.7",
     "eslint-config-custom": "*",
+    "tailwind-config": "*",
     "tsconfig": "*",
     "typescript": "^4.5.3"
   }

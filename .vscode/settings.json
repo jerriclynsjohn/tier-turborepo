@@ -1,0 +1,29 @@
+{
+    // Custom Typings for Next 13
+  "typescript.tsdk": "node_modules/typescript/lib",
+  // For Prettier
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.requireConfig": true,
+
+  // Class Variance Authority
+  "tailwindCSS.experimental.classRegex": [["cva\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"]],
+  "workbench.editor.labelFormat": "short",
+
+  "cSpell.words": [
+    "AICOPY",
+    "clsx",
+    "EXTRACOPY",
+    "formik",
+    "headlessui",
+    "heroicons",
+    "Infisical",
+    "lucide",
+    "nextjs",
+    "openai",
+    "planetscale",
+    "signin",
+    "signup",
+    "tailwindcss"
+  ]
+}
